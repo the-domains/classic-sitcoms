@@ -1,5 +1,6 @@
-layout_spectrum: 0.8413099099416286
 typography_spectrum: 0.9288172943051904
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5403496872168034
   lightness: 0.6621434087865055
@@ -11,4 +12,6 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+layout_spectrum: 0.8413099099416286
 name: Classic Sitcoms
+title: the internet home of TVs classic comedies
