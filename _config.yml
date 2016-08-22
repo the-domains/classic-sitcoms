@@ -6,9 +6,9 @@ color:
   saturation: 0.5309184640645981
   rhythmicContrast: 0.567119421204552
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Classic Sitcoms
